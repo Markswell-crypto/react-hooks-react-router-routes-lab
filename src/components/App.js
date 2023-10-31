@@ -5,7 +5,8 @@ import Home from "./Home";
 import Movies from "./Movies";
 import Directors from "./Directors";
 import Actors from "./Actors";
-
+import 'bootstrap/dist/css/bootstrap.min.css'; 
+import './app.css'
 function App() {
   return (
     <div>
